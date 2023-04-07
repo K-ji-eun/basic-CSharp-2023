@@ -26,7 +26,7 @@
 
 [윈폼 학습결과]
 <img src = "https://github.com/K-ji-eun/basic-CSharp-2023/blob/main/images/winforms1.png" width = "700">
->>>>>>> 381f58a509e05973730bbf23a891ec7d3014b87d
+
 
 ## 4일차
 - C# 기본
