@@ -30,3 +30,19 @@
 [윈폼 학습결과]
 <img src = "https://github.com/K-ji-eun/basic-CSharp-2023/blob/main/images/winforms1.png" width = "700">
 >>>>>>> 381f58a509e05973730bbf23a891ec7d3014b87d
+
+## 4일차
+- C# 기본
+	- 클래스 상속 계속
+
+- Win App
+	- WinForms 컨트롤 마무리
+	- WinForms 파일복사 앱
+	- 로그인앱 실습
+	
+## 5일차
+- C# 기본
+
+- Win App
+	- Winforms 디자인 오류시 해결방법
+	- Window 탐색기 만들기
