@@ -39,7 +39,11 @@
 	
 ## 5일차
 - C# 기본
+	- 인터페이스, 추상클래스
 
 - Win App
 	- Winforms 디자인 오류시 해결방법
 	- Window 탐색기 만들기
+
+5일차 윈도우 탐색기 만들기 중
+<img src = "https://github.com/K-ji-eun/basic-CSharp-2023/blob/main/images/winforms2.png" width = "700">
