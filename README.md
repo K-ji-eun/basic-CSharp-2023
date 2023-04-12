@@ -68,6 +68,15 @@
 <img src = "https://github.com/K-ji-eun/basic-CSharp-2023/blob/main/images/winforms3.png" width = "700">
 
 ## 7일차
-
-	- BookRentalShop DB 사용 WinForms 앱개발
-	- 실습 예제
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 애트리뷰트
+	- 파일핸들링
+	- 더 공부해야할 내용(LINQ, 리플렉션, dynamic)
+   
+- Win App
+   - DB핸들링
+   - SDI vs MDI
+    - BookRentalShop DB 사용 WinForms 앱개발
+    - 실습 예제
