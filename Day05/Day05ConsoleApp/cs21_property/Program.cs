@@ -79,7 +79,7 @@ namespace cs21_property
             get => fuelType;
             set
             {
-                if (value != "휘발유" || value != "경유")
+                if (value != "휘발유" || value != "경 ==유")
                 {
                     value = "휘발유";
                 }
